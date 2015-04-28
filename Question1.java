@@ -3,6 +3,5 @@
 		System.out.println("A");
 		System.out.println("Test");
 		System.out.println("B");
-		System.out.println("C");
 	}
 }
